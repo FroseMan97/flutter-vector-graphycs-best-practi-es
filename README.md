@@ -27,6 +27,7 @@
 Сравнение flutter_svg и rive. Рендер тяжелой svg схемы авто в списке:
 
 https://user-images.githubusercontent.com/43762682/143661375-6e24bd55-e3d2-413a-8f98-a1b3cd8911a3.mp4
+
 Выводы:
 - flutter_svg сильно проигрывает rive;
 - использование rive добавляет работы, нужно зайти на сайт riveapp и сконвертировать svg в riv файл, но это того стоит.
